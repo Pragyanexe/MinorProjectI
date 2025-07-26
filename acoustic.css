@@ -182,13 +182,13 @@ body {
   font-weight: bolder;
 }
 
-/* Remove manual spacing */
+
 .product-description1,
 .product-description2,
 .product-description3 {
   margin-top: 20px;
   text-align: center;
-  flex-grow: 1; /* Pushes the button down */
+  flex-grow: 1; 
 }
 
 .buy-now-btn {
@@ -208,7 +208,7 @@ body {
   gap: 8px;
   letter-spacing: 1px;
   transition: background-color 0.3s ease;
-  margin-top: auto; /* Aligns button at bottom */
+  margin-top: auto;
 }
 
 .buy-now-btn .arrow {
@@ -216,7 +216,7 @@ body {
 }
 
 .buy-now-btn:hover {
-  background-color: #a18c5d; /* Lighter brown */
+  background-color: #a18c5d; 
 }
 
 footer {
