@@ -124,7 +124,7 @@ body {
   }
 }
 
-/* Main product layout section */
+
 .electric-section {
   display: flex;
   justify-content: center;
@@ -193,7 +193,7 @@ body {
   flex-grow: 1;
 }
 
-/* Buy Now button styling */
+
 .buy-now-btn {
   background-color: #8a784f;
   color: white;
@@ -211,7 +211,7 @@ body {
   gap: 8px;
   letter-spacing: 1px;
   transition: background-color 0.3s ease;
-  margin-top: auto; /* aligns button to bottom */
+  margin-top: auto; 
 }
 
 .buy-now-btn .arrow {
@@ -219,7 +219,7 @@ body {
 }
 
 .buy-now-btn:hover {
-  background-color: #a18c5d; /* Lighter brown on hover */
+  background-color: #a18c5d; 
 }
 
 footer {
