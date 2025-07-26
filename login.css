@@ -26,7 +26,7 @@ body {
   transition: background-color 0.3s, color 0.3s;
 }
 
-/* Theme Toggle */
+
 .theme-toggle {
   position: fixed;
   top: 20px;
@@ -49,7 +49,7 @@ body {
   transform: scale(1.1);
 }
 
-/* Header */
+
 .logo-bar {
   background: var(--nav-bg);
   padding: 20px 0;
@@ -66,7 +66,6 @@ body {
   color: var(--text);
 }
 
-/* Navigation */
 .main-nav {
   background: var(--nav-bg);
   padding: 15px 0;
@@ -119,7 +118,7 @@ body {
   width: 100%;
 }
 
-/* Shared Form Elements */
+
 input, textarea {
   padding: 12px;
   background: var(--form-bg);
@@ -155,7 +154,7 @@ button:hover {
   background: #b71c1c;
 }
 
-/* Contact Page */
+
 .contact-container {
   padding: 40px 20px;
   max-width: 1000px;
@@ -190,7 +189,7 @@ button:hover {
   color: var(--accent);
 }
 
-/* Login Page */
+
 .login-container {
   display: flex;
   justify-content: center;
@@ -243,7 +242,7 @@ button:hover {
   text-decoration: underline;
 }
 
-/* Footer */
+
 footer {
   background: var(--footer-bg);
   color: var(--text);
@@ -283,7 +282,7 @@ footer .copyright {
   color: var(--accent);
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
   .main-nav ul {
     gap: 15px;

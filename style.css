@@ -25,7 +25,7 @@ body {
   transition: background-color 0.3s, color 0.3s;
 }
 
-/* Theme Toggle */
+
 .theme-toggle {
   position: fixed;
   top: 20px;
@@ -48,7 +48,7 @@ body {
   transform: scale(1.1);
 }
 
-/* Logo Bar */
+
 .logo-bar {
   background-color: var(--nav-bg);
   padding: 20px 0;
@@ -80,7 +80,7 @@ body {
 
 
 
-/* Navigation */
+
 .main-nav {
   background-color: var(--nav-bg);
   padding: 15px 0;
@@ -134,7 +134,7 @@ body {
   width: 100%;
 }
 
-/* Hero Section */
+
 .hero {
   position: relative;
   height: 100vh;
@@ -166,7 +166,7 @@ body {
   margin: 0;
 }
 
-/* Dual Image Section */
+
 .image-section {
   display: flex;
   justify-content: center;
@@ -189,58 +189,52 @@ body {
 }
 
 .best-sellers h1 {
-  text-align: center;       /* center the heading text */
-  margin-top: 50px;         /* spacing from top */
+  text-align: center;       
+  margin-top: 50px;         
 }
 
 .best {
   display: block;
-  margin-left: 40px;           /* left-aligned */
-  margin-top: 40px;         /* space below the heading */
-  width: 220px;             /* optional: control image size */
+  margin-left: 40px;        
+  margin-top: 40px;         
+  width: 220px;             
 }
 
 
 .best1 {
   display: block;
-  margin-left: 300px;           /* left-aligned */
-  margin-top: -315px;         /* space below the heading */
-  width: 230px;             /* optional: control image size */
+  margin-left: 300px;       
+  margin-top: -315px;       
+  width: 230px;             
 }
 
 .best2 {
   display: block;
-  margin-left: 600px;           /* left-aligned */
-  margin-top: -300px;         /* space below the heading */
-  width: 225px;             /* optional: control image size */
+  margin-left: 600px;       
+  margin-top: -300px;       
+  width: 225px;             
 }
 
 .best3{
    display: block;
-  margin-left: 900px;           /* left-aligned */
-  margin-top: -300px;         /* space below the heading */
+  margin-left: 900px;       
+  margin-top: -300px;       
   width: 190px;  
 }
 
 .best4 {
   display: block;
-  margin-left: 1200px;           /* left-aligned */
-  margin-top: -320px;         /* space below the heading */
+  margin-left: 1200px;      
+  margin-top: -320px;       
   width: 220px;  
 }
 
-
-
-
-
-/* Content Section */
 .content-section {
   padding: 80px 20px;
   max-width: 1200px;
   margin: 0 auto;
 }
 
-/* Footer */
 footer {
   background-color: var(--footer-bg);
   color: var(--text);
@@ -293,7 +287,7 @@ footer .copyright {
   }
 }
 
-/* Responsive Styles */
+
 @media (max-width: 1024px) {
   .hero h2 {
     font-size: 28px;

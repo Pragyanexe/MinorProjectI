@@ -132,7 +132,7 @@ body {
   flex-wrap: wrap;
 }
 
-/* Individual image styles */
+
 .elec1 {
   width: 298px !important;
   height: auto !important;
@@ -163,7 +163,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 320px; /* match roughly your image width */
+  max-width: 320px; 
 }
 
 .description {
@@ -270,5 +270,5 @@ footer .copyright {
 }
 
 .buy-now-btn:hover {
-  background-color: #a18c5d; /* Lighter brown */
+  background-color: #a18c5d;
 }
